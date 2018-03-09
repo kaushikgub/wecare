@@ -1,0 +1,43 @@
+body{
+    background-color: #2ca02c;
+}
+.h1{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+.link{
+    position: absolute;
+    top: 270px;
+    right: 50px;
+}
+.profile{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    padding-right: 200px;
+    font-size: 25px;
+}
+.link1{
+    font-size: 30px;
+    text-decoration: none;
+    border-style: solid;
+    border-color: #411c0e;
+    padding: 5px;
+}
+.profilea{
+    margin-left: 15px;
+}
+.link2{
+    color: red;
+    text-decoration: none;
+    font-size: 30px;
+    border-style: solid;
+    border-color: #411c0e;
+    padding: 5px;
+}
+
+a:hover{
+    background: #2b542c;
+    color: yellow;
+}
